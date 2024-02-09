@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "Userstory2/lib/*.jar"
+    ]
+}
